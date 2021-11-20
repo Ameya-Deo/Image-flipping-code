@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	 <title> Original Image </title>
+	 </head> 
+	 <body>
+		<input id="url" type="text" placeholder="url"/>
+		<button id="button">Click for Flipped Image</button>
+	</body>
+	<script>
+		var button = document.getElementById("button')
+		button.addEventListener('click",function(event){			
+			var imageurl = document.getElementById('url').value
+			var img = document.createElement('img')
+
+		img.src = imageurl
+		document.body.appendChild(img)}) 
+	</script>
+</html>

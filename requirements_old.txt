@@ -1,0 +1,13 @@
+numpy
+scipy
+scikit-learn
+matplotlib
+pandas
+boto3
+requests
+opencv-contrib-python-headless
+fastapi
+uvicorn
+gunicorn==19.9.0
+uvloop
+httptools
