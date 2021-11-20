@@ -1,5 +1,0 @@
-ACCESS_KEY_ID = "AKIA4KZYHJR7HKMQ7CXC"
-ACCESS_SECRET_KEY = "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"
-AWS_BUCKET_NAME = "my-demo-api"
-AWS_S3_ENDPOINT = "s3.us-east-2.amazonaws.com"
-#AWS_REGION = "US East (Ohio) us-east-2"
